@@ -3380,3 +3380,24 @@ a {
   border-radius: 10px;
   overflow: hidden;
 }
+
+.aflacum {
+  position: absolute;
+  background-color: #000000;
+  width: 180px;
+  padding: 5px 30px;
+  color: white;
+  border-radius: 20px;
+  margin-left: 0px;
+  margin-top: 10px;
+  font-size: 20px;
+  text-align: center;
+  
+
+}
+
+.aflacum:hover {
+  background-color: white;
+  color: #000000;
+  transition-duration: 0.5s;
+}
